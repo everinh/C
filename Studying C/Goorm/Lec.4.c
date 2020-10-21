@@ -8,7 +8,7 @@
 
 #include <stdio.h>
 
-//정수 덧셈
+//정수 덧셈 ..
 int main_04() {
     int a = 1;
     int b = 10;
