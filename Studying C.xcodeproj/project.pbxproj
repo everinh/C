@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DEB7CD4F25407A6A005A778D /* Lec.5.c in Sources */ = {isa = PBXBuildFile; fileRef = DEB7CD4E25407A6A005A778D /* Lec.5.c */; };
 		DEF562F5253D5DC200FD9C9C /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = DEF562F4253D5DC200FD9C9C /* main.c */; };
 		DEF56306253D608500FD9C9C /* Lec.1.c in Sources */ = {isa = PBXBuildFile; fileRef = DEF56305253D608500FD9C9C /* Lec.1.c */; };
 		DEF56309253D60B500FD9C9C /* Lec.2.c in Sources */ = {isa = PBXBuildFile; fileRef = DEF56308253D60B500FD9C9C /* Lec.2.c */; };
@@ -27,6 +28,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DEB7CD4E25407A6A005A778D /* Lec.5.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Lec.5.c; sourceTree = "<group>"; };
 		DEF562F1253D5DC200FD9C9C /* Studying C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Studying C"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEF562F4253D5DC200FD9C9C /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		DEF56305253D608500FD9C9C /* Lec.1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Lec.1.c; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				DEF56308253D60B500FD9C9C /* Lec.2.c */,
 				DEF5630F253D778600FD9C9C /* Lec.3.c */,
 				DEF56316253D799700FD9C9C /* Lec.4.c */,
+				DEB7CD4E25407A6A005A778D /* Lec.5.c */,
 			);
 			path = Goorm;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				DEF56309253D60B500FD9C9C /* Lec.2.c in Sources */,
 				DEF56306253D608500FD9C9C /* Lec.1.c in Sources */,
 				DEF562F5253D5DC200FD9C9C /* main.c in Sources */,
+				DEB7CD4F25407A6A005A778D /* Lec.5.c in Sources */,
 				DEF56317253D799700FD9C9C /* Lec.4.c in Sources */,
 				DEF56310253D778600FD9C9C /* Lec.3.c in Sources */,
 			);
