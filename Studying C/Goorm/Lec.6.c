@@ -1,6 +1,6 @@
 //
 //  Lec.6.c
-//  반복문
+//  배열
 //  Studying C
 //
 //  Created by David Choi on 2020/10/23.
