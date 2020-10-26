@@ -1,5 +1,5 @@
 //
-//  Lec.4.c
+//  Lec.5.c
 //  반복문
 //  Studying C
 //
