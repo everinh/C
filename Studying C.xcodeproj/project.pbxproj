@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE2D4078254D6216009B9338 /* Lec.10.c in Sources */ = {isa = PBXBuildFile; fileRef = DE2D4077254D6216009B9338 /* Lec.10.c */; };
 		DE8FAB0E2542F3E000D5CF6B /* Lec.6.c in Sources */ = {isa = PBXBuildFile; fileRef = DE8FAB0D2542F3E000D5CF6B /* Lec.6.c */; };
 		DEB7CD4F25407A6A005A778D /* Lec.5.c in Sources */ = {isa = PBXBuildFile; fileRef = DEB7CD4E25407A6A005A778D /* Lec.5.c */; };
 		DEC11AD3254710DA00726741 /* Lec.7.c in Sources */ = {isa = PBXBuildFile; fileRef = DEC11AD2254710DA00726741 /* Lec.7.c */; };
@@ -32,6 +33,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DE2D4077254D6216009B9338 /* Lec.10.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Lec.10.c; sourceTree = "<group>"; };
 		DE8FAB0D2542F3E000D5CF6B /* Lec.6.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Lec.6.c; sourceTree = "<group>"; };
 		DEB7CD4E25407A6A005A778D /* Lec.5.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Lec.5.c; sourceTree = "<group>"; };
 		DEC11AD2254710DA00726741 /* Lec.7.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Lec.7.c; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				DEC11AD2254710DA00726741 /* Lec.7.c */,
 				DEC11AD52547D91800726741 /* Lec.8.c */,
 				DEC11AD82547E5AF00726741 /* Lec.9.c */,
+				DE2D4077254D6216009B9338 /* Lec.10.c */,
 			);
 			path = Goorm;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				DEC11AD62547D91800726741 /* Lec.8.c in Sources */,
 				DEF56317253D799700FD9C9C /* Lec.4.c in Sources */,
 				DEF56310253D778600FD9C9C /* Lec.3.c in Sources */,
+				DE2D4078254D6216009B9338 /* Lec.10.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
